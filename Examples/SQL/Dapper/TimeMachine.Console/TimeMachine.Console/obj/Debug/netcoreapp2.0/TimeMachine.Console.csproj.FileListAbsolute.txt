@@ -1,0 +1,10 @@
+C:\Code\Examples\sql\TimeMachine.Console\obj\Debug\netcoreapp2.0\TimeMachine.Console.csproj.CoreCompileInputs.cache
+C:\Code\Examples\sql\TimeMachine.Console\obj\Debug\netcoreapp2.0\TimeMachine.Console.AssemblyInfoInputs.cache
+C:\Code\Examples\sql\TimeMachine.Console\obj\Debug\netcoreapp2.0\TimeMachine.Console.AssemblyInfo.cs
+C:\Code\Examples\sql\TimeMachine.Console\bin\Debug\netcoreapp2.0\TimeMachine.Console.deps.json
+C:\Code\Examples\sql\TimeMachine.Console\bin\Debug\netcoreapp2.0\TimeMachine.Console.runtimeconfig.json
+C:\Code\Examples\sql\TimeMachine.Console\bin\Debug\netcoreapp2.0\TimeMachine.Console.runtimeconfig.dev.json
+C:\Code\Examples\sql\TimeMachine.Console\bin\Debug\netcoreapp2.0\TimeMachine.Console.dll
+C:\Code\Examples\sql\TimeMachine.Console\bin\Debug\netcoreapp2.0\TimeMachine.Console.pdb
+C:\Code\Examples\sql\TimeMachine.Console\obj\Debug\netcoreapp2.0\TimeMachine.Console.dll
+C:\Code\Examples\sql\TimeMachine.Console\obj\Debug\netcoreapp2.0\TimeMachine.Console.pdb

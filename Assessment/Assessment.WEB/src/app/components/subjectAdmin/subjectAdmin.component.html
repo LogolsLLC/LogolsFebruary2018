@@ -1,0 +1,53 @@
+<h1>Subject Admin</h1><br />
+<div class="panel panel-default">
+    <div class="panel-heading"><h4>Subjects</h4></div>
+    <div class="panel-body">
+        <p *ngIf="!subjects"><em>Loading Subjects...</em></p>
+        <table class='table' *ngIf="subjects">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th></th>
+                    <th>Subject ID</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let subject of subjects">
+                    <td><button type="button" class="btn btn-primary btn-default" data-toggle="modal" data-target="#myModal" (click)="onEditClicked(subject)">Edit</button></td>
+                    <td><button type="button" class="btn btn-primary btn-default" (click)="onDeleteClicked(subject)">Delete</button></td>
+                    <td>{{ subject.subjectID }}</td>
+                    <td>{{ subject.name }}</td>
+                    <td>{{ subject.description }}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<button type="button" class="btn btn-primary btn-default" data-toggle="modal" data-target="#myModal" (click)="onAddClicked($event)">Add New</button>
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Update Subject</h4>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label for="name">Name:</label>
+                    <div><input id="name" type="text" class="form-control" [(ngModel)]="updateSubject.name" /></div>
+                </div>
+                <div class="form-group">
+                    <label for="name">Description:</label>
+                    <div><input id="name" type="text" class="form-control" [(ngModel)]="updateSubject.description" /></div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary btn-default" data-toggle="modal" data-target="#myModal" (click)="onUpdateClicked(updateSubject)">Save</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

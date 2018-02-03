@@ -1,0 +1,15 @@
+<h1>Select an Assessment</h1>
+
+<div class="row">
+    <div class="col-sm-6 col-md-4" *ngFor="let assessment of assessments">
+        <div class="thumbnail thumbnail-assessment">
+            <div class="text-center">
+                <span class="glyphicon glyphicon-education text-large"></span>
+            </div>
+            <div class="caption text-center">
+                <h3>{{ assessment.name }}</h3>
+                <p><a [routerLink]="['/assessment', assessment.assessmentID]">Go</a></p>
+            </div>
+        </div>
+    </div>
+</div>

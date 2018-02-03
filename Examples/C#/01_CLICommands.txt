@@ -1,0 +1,5 @@
+mkdir TimeMachine
+cd TimeMachine
+mkdir TimeMachine.Console
+cd TimeMachine.Console
+dotnet new console

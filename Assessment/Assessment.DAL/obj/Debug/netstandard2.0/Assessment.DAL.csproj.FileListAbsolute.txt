@@ -1,0 +1,10 @@
+C:\Code\Assessment\Assessment.DAL\obj\Debug\netstandard2.0\Assessment.DAL.csproj.CoreCompileInputs.cache
+C:\Code\Assessment\Assessment.DAL\obj\Debug\netstandard2.0\Assessment.DAL.AssemblyInfoInputs.cache
+C:\Code\Assessment\Assessment.DAL\obj\Debug\netstandard2.0\Assessment.DAL.AssemblyInfo.cs
+C:\Code\Assessment\Assessment.DAL\bin\Debug\netstandard2.0\Assessment.DAL.deps.json
+C:\Code\Assessment\Assessment.DAL\bin\Debug\netstandard2.0\Assessment.DAL.dll
+C:\Code\Assessment\Assessment.DAL\bin\Debug\netstandard2.0\Assessment.DAL.pdb
+C:\Code\Assessment\Assessment.DAL\bin\Debug\netstandard2.0\Assessment.Entities.dll
+C:\Code\Assessment\Assessment.DAL\bin\Debug\netstandard2.0\Assessment.Entities.pdb
+C:\Code\Assessment\Assessment.DAL\obj\Debug\netstandard2.0\Assessment.DAL.dll
+C:\Code\Assessment\Assessment.DAL\obj\Debug\netstandard2.0\Assessment.DAL.pdb

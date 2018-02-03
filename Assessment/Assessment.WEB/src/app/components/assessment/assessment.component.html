@@ -1,0 +1,6 @@
+<h2>{{assessment.name}}</h2>
+<h3>Score:  {{score}}%</h3>
+<question *ngFor="let question of questions" 
+            [question]="question" (onSelectionChanged)="onSelectionChange($event)">
+</question>
+<h4>Your Score:  {{score}}%</h4>

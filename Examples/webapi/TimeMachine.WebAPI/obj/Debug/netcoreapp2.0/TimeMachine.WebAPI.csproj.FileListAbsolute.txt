@@ -1,0 +1,10 @@
+C:\Code\Examples\webapi\TimeMachine.WebAPI\bin\Debug\netcoreapp2.0\TimeMachine.WebAPI.deps.json
+C:\Code\Examples\webapi\TimeMachine.WebAPI\bin\Debug\netcoreapp2.0\TimeMachine.WebAPI.runtimeconfig.json
+C:\Code\Examples\webapi\TimeMachine.WebAPI\bin\Debug\netcoreapp2.0\TimeMachine.WebAPI.runtimeconfig.dev.json
+C:\Code\Examples\webapi\TimeMachine.WebAPI\bin\Debug\netcoreapp2.0\TimeMachine.WebAPI.dll
+C:\Code\Examples\webapi\TimeMachine.WebAPI\bin\Debug\netcoreapp2.0\TimeMachine.WebAPI.pdb
+C:\Code\Examples\webapi\TimeMachine.WebAPI\obj\Debug\netcoreapp2.0\TimeMachine.WebAPI.csproj.CoreCompileInputs.cache
+C:\Code\Examples\webapi\TimeMachine.WebAPI\obj\Debug\netcoreapp2.0\TimeMachine.WebAPI.AssemblyInfoInputs.cache
+C:\Code\Examples\webapi\TimeMachine.WebAPI\obj\Debug\netcoreapp2.0\TimeMachine.WebAPI.AssemblyInfo.cs
+C:\Code\Examples\webapi\TimeMachine.WebAPI\obj\Debug\netcoreapp2.0\TimeMachine.WebAPI.dll
+C:\Code\Examples\webapi\TimeMachine.WebAPI\obj\Debug\netcoreapp2.0\TimeMachine.WebAPI.pdb

@@ -1,0 +1,12 @@
+<div class="question">
+    <div class="panel" [ngClass]="{'panel-success' : result=='Correct!', 'panel-danger' : result=='Sorry', 'panel-default' : result==''}">
+        <div class="panel-heading">
+            <span class="glyphicon" [ngClass]="{'glyphicon-ok' : result=='Correct!', 'glyphicon-remove' : result=='Sorry'}"></span><span class="question-text">{{question.text}}</span>
+        </div>
+        <div class="panel-body">
+            <div *ngFor="let answer of answers">
+                <input type="radio" [name]='question.questionID' [value]='answer.answerID' (change)="onSelectionChange(answer)" /> {{answer.text}}
+            </div>
+        </div>
+    </div>
+</div>

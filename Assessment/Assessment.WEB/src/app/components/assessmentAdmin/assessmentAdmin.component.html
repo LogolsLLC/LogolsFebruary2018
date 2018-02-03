@@ -1,0 +1,73 @@
+<h1>Assessment Admin</h1><br />
+<div class="panel panel-default">
+    <div class="panel-heading"><h4>Assessments</h4></div>
+    <div class="panel-body">
+        <p *ngIf="!assessments"><em>Loading Assessments...</em></p>
+        <table class='table' *ngIf="assessments">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                    <th>Assessment ID</th>
+                    <th>Level Number</th>
+                    <th>Subject ID</th>
+                    <th>Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let assessment of assessments">
+                    <td><button type="button" class="btn btn-primary btn-default" data-toggle="modal" data-target="#myModal" (click)="onEditClicked(assessment)">Edit</button></td>
+                    <td><button type="button" class="btn btn-primary btn-default" (click)="onDeleteClicked(assessment)">Delete</button></td>
+                    <td><button type="button" class="btn btn-primary btn-default" (click)="onQuestionClicked(assessment)">Questions</button></td>
+                    <td>{{ assessment.assessmentID }}</td>
+                    <td>{{ assessment.levelNumber }}</td>
+                    <td>{{ assessment.subjectID }}</td>
+                    <td>{{ assessment.name }}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<button type="button" class="btn btn-primary btn-default" data-toggle="modal" data-target="#myModal" (click)="onAddClicked($event)">Add New</button>
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Update Assessment</h4>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label for="level">Level:</label>
+                    <div>
+                        <select id="level" class="form-control" name="level" [(ngModel)]="updateAssessment.levelNumber">
+                            <option *ngFor="let level of levels" [value]="level.levelNumber">
+                                {{level.name}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="subject">Subject:</label>
+                    <div>
+                        <select id="subject" class="form-control" name="subject" [(ngModel)]="updateAssessment.subjectID">
+                            <option *ngFor="let subject of subjects" [value]="subject.subjectID">
+                                {{subject.name}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="name">Name:</label>
+                    <div><input id="name" type="text" class="form-control" [(ngModel)]="updateAssessment.name" /></div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary btn-default" data-toggle="modal" data-target="#myModal" (click)="onUpdateClicked(updateAssessment)">Save</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

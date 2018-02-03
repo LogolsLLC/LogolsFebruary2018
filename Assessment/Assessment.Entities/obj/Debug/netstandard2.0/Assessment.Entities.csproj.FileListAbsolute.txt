@@ -1,0 +1,8 @@
+C:\Code\Assessment\Assessment.Entities\bin\Debug\netstandard2.0\Assessment.Entities.deps.json
+C:\Code\Assessment\Assessment.Entities\bin\Debug\netstandard2.0\Assessment.Entities.dll
+C:\Code\Assessment\Assessment.Entities\bin\Debug\netstandard2.0\Assessment.Entities.pdb
+C:\Code\Assessment\Assessment.Entities\obj\Debug\netstandard2.0\Assessment.Entities.csproj.CoreCompileInputs.cache
+C:\Code\Assessment\Assessment.Entities\obj\Debug\netstandard2.0\Assessment.Entities.AssemblyInfoInputs.cache
+C:\Code\Assessment\Assessment.Entities\obj\Debug\netstandard2.0\Assessment.Entities.AssemblyInfo.cs
+C:\Code\Assessment\Assessment.Entities\obj\Debug\netstandard2.0\Assessment.Entities.dll
+C:\Code\Assessment\Assessment.Entities\obj\Debug\netstandard2.0\Assessment.Entities.pdb

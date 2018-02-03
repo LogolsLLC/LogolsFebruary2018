@@ -1,0 +1,65 @@
+<h1>Answer Admin</h1><br />
+<div class="panel panel-default">
+    <div class="panel-heading"><h4>Answers</h4></div>
+    <div class="panel-body">
+        <p *ngIf="!answers"><em>Loading Answers...</em></p>
+        <table class='table' *ngIf="answers">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th></th>
+                    <th>Answer ID</th>
+                    <th>Quesetion ID</th>
+                    <th>Text</th>
+                    <th>Is Correct</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let answer of answers">
+                    <td><button type="button" class="btn btn-primary btn-default" data-toggle="modal" data-target="#myModal" (click)="onEditClicked(answer)">Edit</button></td>
+                    <td><button type="button" class="btn btn-primary btn-default" (click)="onDeleteClicked(answer)">Delete</button></td>
+                    <td>{{ answer.answerID }}</td>
+                    <td>{{ answer.questionID }}</td>
+                    <td>{{ answer.text }}</td>
+                    <td>{{ answer.isCorrect }}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<button type="button" class="btn btn-primary btn-default" data-toggle="modal" data-target="#myModal" (click)="onAddClicked($event)">Add New</button>
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Update Answer</h4>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label for="subject">Question:</label>
+                    <div>
+                        <select id="question" class="form-control" name="subject" [(ngModel)]="updateAnswer.questionID">
+                            <option *ngFor="let question of questions" [value]="question.questionID">
+                                {{question.text}}
+                            </option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="name">Text:</label>
+                    <div><input id="text" type="text" class="form-control" [(ngModel)]="updateAnswer.text" /></div>
+                </div>
+                <div class="form-group">
+                    <label for="name">Is Correct:</label>
+                    <div><input id="isCorrect" type="text" class="form-control" [(ngModel)]="updateAnswer.isCorrect" /></div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary btn-default" data-toggle="modal" data-target="#myModal" (click)="onUpdateClicked(updateAnswer)">Save</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

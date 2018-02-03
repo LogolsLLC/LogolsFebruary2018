@@ -1,0 +1,14 @@
+C:\Code\Assessment\Assessment.API\obj\Debug\netcoreapp2.0\Assessment.API.csproj.CoreCompileInputs.cache
+C:\Code\Assessment\Assessment.API\obj\Debug\netcoreapp2.0\Assessment.API.AssemblyInfoInputs.cache
+C:\Code\Assessment\Assessment.API\obj\Debug\netcoreapp2.0\Assessment.API.AssemblyInfo.cs
+C:\Code\Assessment\Assessment.API\bin\Debug\netcoreapp2.0\Assessment.API.deps.json
+C:\Code\Assessment\Assessment.API\bin\Debug\netcoreapp2.0\Assessment.API.runtimeconfig.json
+C:\Code\Assessment\Assessment.API\bin\Debug\netcoreapp2.0\Assessment.API.runtimeconfig.dev.json
+C:\Code\Assessment\Assessment.API\bin\Debug\netcoreapp2.0\Assessment.API.dll
+C:\Code\Assessment\Assessment.API\bin\Debug\netcoreapp2.0\Assessment.API.pdb
+C:\Code\Assessment\Assessment.API\bin\Debug\netcoreapp2.0\Assessment.DAL.dll
+C:\Code\Assessment\Assessment.API\bin\Debug\netcoreapp2.0\Assessment.Entities.dll
+C:\Code\Assessment\Assessment.API\bin\Debug\netcoreapp2.0\Assessment.Entities.pdb
+C:\Code\Assessment\Assessment.API\bin\Debug\netcoreapp2.0\Assessment.DAL.pdb
+C:\Code\Assessment\Assessment.API\obj\Debug\netcoreapp2.0\Assessment.API.dll
+C:\Code\Assessment\Assessment.API\obj\Debug\netcoreapp2.0\Assessment.API.pdb
