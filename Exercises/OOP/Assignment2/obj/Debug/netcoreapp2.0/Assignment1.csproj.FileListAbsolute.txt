@@ -1,0 +1,10 @@
+C:\Code\Examples\OOP\Assignment1\bin\Debug\netcoreapp2.0\Assignment1.deps.json
+C:\Code\Examples\OOP\Assignment1\bin\Debug\netcoreapp2.0\Assignment1.runtimeconfig.json
+C:\Code\Examples\OOP\Assignment1\bin\Debug\netcoreapp2.0\Assignment1.runtimeconfig.dev.json
+C:\Code\Examples\OOP\Assignment1\bin\Debug\netcoreapp2.0\Assignment1.dll
+C:\Code\Examples\OOP\Assignment1\bin\Debug\netcoreapp2.0\Assignment1.pdb
+C:\Code\Examples\OOP\Assignment1\obj\Debug\netcoreapp2.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Code\Examples\OOP\Assignment1\obj\Debug\netcoreapp2.0\Assignment1.AssemblyInfoInputs.cache
+C:\Code\Examples\OOP\Assignment1\obj\Debug\netcoreapp2.0\Assignment1.AssemblyInfo.cs
+C:\Code\Examples\OOP\Assignment1\obj\Debug\netcoreapp2.0\Assignment1.dll
+C:\Code\Examples\OOP\Assignment1\obj\Debug\netcoreapp2.0\Assignment1.pdb
