@@ -1,0 +1,10 @@
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\sql\Dapper\ZombieReport.Console\ZombieReport.Console\bin\Debug\netcoreapp2.0\ZombieReport.Console.deps.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\sql\Dapper\ZombieReport.Console\ZombieReport.Console\bin\Debug\netcoreapp2.0\ZombieReport.Console.runtimeconfig.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\sql\Dapper\ZombieReport.Console\ZombieReport.Console\bin\Debug\netcoreapp2.0\ZombieReport.Console.runtimeconfig.dev.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\sql\Dapper\ZombieReport.Console\ZombieReport.Console\bin\Debug\netcoreapp2.0\ZombieReport.Console.dll
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\sql\Dapper\ZombieReport.Console\ZombieReport.Console\bin\Debug\netcoreapp2.0\ZombieReport.Console.pdb
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\sql\Dapper\ZombieReport.Console\ZombieReport.Console\obj\Debug\netcoreapp2.0\ZombieReport.Console.csproj.CoreCompileInputs.cache
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\sql\Dapper\ZombieReport.Console\ZombieReport.Console\obj\Debug\netcoreapp2.0\ZombieReport.Console.AssemblyInfoInputs.cache
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\sql\Dapper\ZombieReport.Console\ZombieReport.Console\obj\Debug\netcoreapp2.0\ZombieReport.Console.AssemblyInfo.cs
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\sql\Dapper\ZombieReport.Console\ZombieReport.Console\obj\Debug\netcoreapp2.0\ZombieReport.Console.dll
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\sql\Dapper\ZombieReport.Console\ZombieReport.Console\obj\Debug\netcoreapp2.0\ZombieReport.Console.pdb
