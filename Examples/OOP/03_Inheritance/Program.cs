@@ -1,12 +1,11 @@
-﻿namespace TimeMachine.Console
-{
-    using System;
-    using System.Collections.Generic;
+﻿using System;
 
+namespace TimeMachine.Console
+{
     class Program
     {
         static void Main(string[] args)
-        {          
+        {
             TimeMachine direct = new DirectRouteTimeMachine();
             TimeMachine hop = new MultipleHopTimeMachine();
             direct.TimeTravel(1990);

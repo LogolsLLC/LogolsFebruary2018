@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\Examples\\OOP\\Assignment1\\Assignment1.csproj",
+      "projectUniqueName": "C:\\Users\\JMack_000\\Documents\\GitHub\\LogolsFebruary20182\\LogolsFebruary2018\\Exercises\\OOP\\Assignment1\\Assignment1.csproj",
       "projectName": "Assignment1",
-      "projectPath": "C:\\Code\\Examples\\OOP\\Assignment1\\Assignment1.csproj",
+      "projectPath": "C:\\Users\\JMack_000\\Documents\\GitHub\\LogolsFebruary20182\\LogolsFebruary2018\\Exercises\\OOP\\Assignment1\\Assignment1.csproj",
       "packagesPath": "C:\\Users\\JMack_000\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\Examples\\OOP\\Assignment1\\obj\\",
+      "outputPath": "C:\\Users\\JMack_000\\Documents\\GitHub\\LogolsFebruary20182\\LogolsFebruary2018\\Exercises\\OOP\\Assignment1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

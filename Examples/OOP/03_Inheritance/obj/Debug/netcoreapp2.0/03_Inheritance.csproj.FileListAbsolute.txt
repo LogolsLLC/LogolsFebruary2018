@@ -1,0 +1,10 @@
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\03_Inheritance\bin\Debug\netcoreapp2.0\03_Inheritance.deps.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\03_Inheritance\bin\Debug\netcoreapp2.0\03_Inheritance.runtimeconfig.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\03_Inheritance\bin\Debug\netcoreapp2.0\03_Inheritance.runtimeconfig.dev.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\03_Inheritance\bin\Debug\netcoreapp2.0\03_Inheritance.dll
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\03_Inheritance\bin\Debug\netcoreapp2.0\03_Inheritance.pdb
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\03_Inheritance\obj\Debug\netcoreapp2.0\03_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\03_Inheritance\obj\Debug\netcoreapp2.0\03_Inheritance.AssemblyInfoInputs.cache
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\03_Inheritance\obj\Debug\netcoreapp2.0\03_Inheritance.AssemblyInfo.cs
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\03_Inheritance\obj\Debug\netcoreapp2.0\03_Inheritance.dll
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\03_Inheritance\obj\Debug\netcoreapp2.0\03_Inheritance.pdb

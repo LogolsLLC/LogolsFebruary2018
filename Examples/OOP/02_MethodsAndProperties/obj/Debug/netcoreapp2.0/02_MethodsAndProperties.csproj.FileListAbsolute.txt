@@ -1,0 +1,10 @@
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\02_MethodsAndProperties\obj\Debug\netcoreapp2.0\02_MethodsAndProperties.csproj.CoreCompileInputs.cache
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\02_MethodsAndProperties\obj\Debug\netcoreapp2.0\02_MethodsAndProperties.AssemblyInfoInputs.cache
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\02_MethodsAndProperties\obj\Debug\netcoreapp2.0\02_MethodsAndProperties.AssemblyInfo.cs
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\02_MethodsAndProperties\bin\Debug\netcoreapp2.0\02_MethodsAndProperties.deps.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\02_MethodsAndProperties\bin\Debug\netcoreapp2.0\02_MethodsAndProperties.runtimeconfig.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\02_MethodsAndProperties\bin\Debug\netcoreapp2.0\02_MethodsAndProperties.runtimeconfig.dev.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\02_MethodsAndProperties\bin\Debug\netcoreapp2.0\02_MethodsAndProperties.dll
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\02_MethodsAndProperties\bin\Debug\netcoreapp2.0\02_MethodsAndProperties.pdb
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\02_MethodsAndProperties\obj\Debug\netcoreapp2.0\02_MethodsAndProperties.dll
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\02_MethodsAndProperties\obj\Debug\netcoreapp2.0\02_MethodsAndProperties.pdb
