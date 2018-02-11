@@ -1,0 +1,10 @@
+C:\Code\Examples\webapi\ZombieReport.WebAPI\obj\Debug\netcoreapp2.0\ZombieReport.WebAPI.csproj.CoreCompileInputs.cache
+C:\Code\Examples\webapi\ZombieReport.WebAPI\obj\Debug\netcoreapp2.0\ZombieReport.WebAPI.AssemblyInfoInputs.cache
+C:\Code\Examples\webapi\ZombieReport.WebAPI\obj\Debug\netcoreapp2.0\ZombieReport.WebAPI.AssemblyInfo.cs
+C:\Code\Examples\webapi\ZombieReport.WebAPI\bin\Debug\netcoreapp2.0\ZombieReport.WebAPI.deps.json
+C:\Code\Examples\webapi\ZombieReport.WebAPI\bin\Debug\netcoreapp2.0\ZombieReport.WebAPI.runtimeconfig.json
+C:\Code\Examples\webapi\ZombieReport.WebAPI\bin\Debug\netcoreapp2.0\ZombieReport.WebAPI.runtimeconfig.dev.json
+C:\Code\Examples\webapi\ZombieReport.WebAPI\bin\Debug\netcoreapp2.0\ZombieReport.WebAPI.dll
+C:\Code\Examples\webapi\ZombieReport.WebAPI\bin\Debug\netcoreapp2.0\ZombieReport.WebAPI.pdb
+C:\Code\Examples\webapi\ZombieReport.WebAPI\obj\Debug\netcoreapp2.0\ZombieReport.WebAPI.dll
+C:\Code\Examples\webapi\ZombieReport.WebAPI\obj\Debug\netcoreapp2.0\ZombieReport.WebAPI.pdb
