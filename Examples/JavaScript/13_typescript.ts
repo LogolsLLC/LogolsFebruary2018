@@ -1,4 +1,4 @@
-abstract class ITimeMachine
+interface ITimeMachine
 {
     TravelHistory:number[];
     timeTravel(year:number):void;
