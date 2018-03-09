@@ -12855,11 +12855,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\Examples\\webapi\\ZombieReport.WebAPI\\ZombieReport.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\JMack_000\\Documents\\GitHub\\LogolsFebruary20182\\LogolsFebruary2018\\Exercises\\webapi\\ZombieReport.WebAPI\\ZombieReport.WebAPI.csproj",
       "projectName": "ZombieReport.WebAPI",
-      "projectPath": "C:\\Code\\Examples\\webapi\\ZombieReport.WebAPI\\ZombieReport.WebAPI.csproj",
+      "projectPath": "C:\\Users\\JMack_000\\Documents\\GitHub\\LogolsFebruary20182\\LogolsFebruary2018\\Exercises\\webapi\\ZombieReport.WebAPI\\ZombieReport.WebAPI.csproj",
       "packagesPath": "C:\\Users\\JMack_000\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\Examples\\webapi\\ZombieReport.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\JMack_000\\Documents\\GitHub\\LogolsFebruary20182\\LogolsFebruary2018\\Exercises\\webapi\\ZombieReport.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -8,7 +8,7 @@
 
     public class Repository
     {
-        private string connectionString = @"server=localhost;port=3306;database=Assessment;user=[user];password=[pass]";
+        private string connectionString = @"server=localhost;port=3306;database=Assessment;user=root;password=password";
         public IDbConnection Connection
         {
             get
