@@ -1,0 +1,25 @@
+<header>
+  <h1>
+      {{title}}
+  </h1>
+</header>
+<img src="/assets/img/Zombie.jpg" alt="Zombie Image" />
+<p>
+  This report will notify you of the status of people that we are aware of.  
+  Please enter anyone that we are missing.
+</p>
+<table>
+<thead>
+  <th>First Name</th>
+  <th>Last Name</th>
+  <th>Status Id</th>
+  <th>Status</th>
+</thead>
+<tr *ngFor="let status of statuses">
+  <td>{{status.firstName}}</td>
+  <td>{{status.lastName}}</td>
+  <td>{{status.statusId}}</td>
+  <td>{{status.statusDescription}}</td>
+</tr>
+</table>
+<a routerLink="/addStatus" routerLinkActive="active">Add</a>
