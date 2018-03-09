@@ -1,5 +1,5 @@
 using System;
-namespace Assignment1
+namespace Zombie.Simulator
 {
     public class Person
     {

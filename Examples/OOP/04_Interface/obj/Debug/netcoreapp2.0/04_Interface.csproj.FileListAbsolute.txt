@@ -1,0 +1,10 @@
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\04_Interface\obj\Debug\netcoreapp2.0\04_Interface.csproj.CoreCompileInputs.cache
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\04_Interface\obj\Debug\netcoreapp2.0\04_Interface.AssemblyInfoInputs.cache
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\04_Interface\obj\Debug\netcoreapp2.0\04_Interface.AssemblyInfo.cs
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\04_Interface\bin\Debug\netcoreapp2.0\04_Interface.deps.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\04_Interface\bin\Debug\netcoreapp2.0\04_Interface.runtimeconfig.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\04_Interface\bin\Debug\netcoreapp2.0\04_Interface.runtimeconfig.dev.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\04_Interface\bin\Debug\netcoreapp2.0\04_Interface.dll
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\04_Interface\bin\Debug\netcoreapp2.0\04_Interface.pdb
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\04_Interface\obj\Debug\netcoreapp2.0\04_Interface.dll
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\04_Interface\obj\Debug\netcoreapp2.0\04_Interface.pdb

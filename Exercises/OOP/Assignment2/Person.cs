@@ -1,10 +1,11 @@
 using System;
-namespace Assignment1
+namespace Zombie.Simulator
 {
     public class Person
     {
         private decimal distanceTraveled;
 
+        /* 
         public decimal DistanceTraveled
         {
             get
@@ -16,9 +17,10 @@ namespace Assignment1
                 distanceTraveled = value;
             }
         }
+        */
 
         //auto - implemented syntax
-        //public decimal DistanceTraveled { get; set; }
+        public decimal DistanceTraveled { get; set; }
 
         public Person()
         {

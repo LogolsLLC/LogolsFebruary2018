@@ -8,3 +8,13 @@ C:\Code\Examples\OOP\Assignment1\obj\Debug\netcoreapp2.0\Assignment1.AssemblyInf
 C:\Code\Examples\OOP\Assignment1\obj\Debug\netcoreapp2.0\Assignment1.AssemblyInfo.cs
 C:\Code\Examples\OOP\Assignment1\obj\Debug\netcoreapp2.0\Assignment1.dll
 C:\Code\Examples\OOP\Assignment1\obj\Debug\netcoreapp2.0\Assignment1.pdb
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\OOP\Assignment3\bin\Debug\netcoreapp2.0\Assignment1.deps.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\OOP\Assignment3\bin\Debug\netcoreapp2.0\Assignment1.runtimeconfig.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\OOP\Assignment3\bin\Debug\netcoreapp2.0\Assignment1.runtimeconfig.dev.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\OOP\Assignment3\bin\Debug\netcoreapp2.0\Assignment1.dll
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\OOP\Assignment3\bin\Debug\netcoreapp2.0\Assignment1.pdb
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\OOP\Assignment3\obj\Debug\netcoreapp2.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\OOP\Assignment3\obj\Debug\netcoreapp2.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\OOP\Assignment3\obj\Debug\netcoreapp2.0\Assignment1.AssemblyInfo.cs
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\OOP\Assignment3\obj\Debug\netcoreapp2.0\Assignment1.dll
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Exercises\OOP\Assignment3\obj\Debug\netcoreapp2.0\Assignment1.pdb

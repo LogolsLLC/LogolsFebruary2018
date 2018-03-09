@@ -1,0 +1,10 @@
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\01_Constructor\obj\Debug\netcoreapp2.0\01_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\01_Constructor\obj\Debug\netcoreapp2.0\01_Constructor.AssemblyInfoInputs.cache
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\01_Constructor\obj\Debug\netcoreapp2.0\01_Constructor.AssemblyInfo.cs
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\01_Constructor\bin\Debug\netcoreapp2.0\01_Constructor.deps.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\01_Constructor\bin\Debug\netcoreapp2.0\01_Constructor.runtimeconfig.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\01_Constructor\bin\Debug\netcoreapp2.0\01_Constructor.runtimeconfig.dev.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\01_Constructor\bin\Debug\netcoreapp2.0\01_Constructor.dll
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\01_Constructor\bin\Debug\netcoreapp2.0\01_Constructor.pdb
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\01_Constructor\obj\Debug\netcoreapp2.0\01_Constructor.dll
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\OOP\01_Constructor\obj\Debug\netcoreapp2.0\01_Constructor.pdb
