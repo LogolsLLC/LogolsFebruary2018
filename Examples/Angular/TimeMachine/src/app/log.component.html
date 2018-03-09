@@ -1,0 +1,28 @@
+<header>
+  <h1>{{title}}</h1>
+</header>
+<hr />
+<p>
+  Here is a log of previous time travels.
+</p> 
+<img src="/assets/img/TimeMachine.jpg" alt="Time Machine Image" />
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Traveler</th>
+      <th></th>
+    </tr>
+    <tr>
+      <th>First Name</th>
+      <th>Last Name</th>
+      <th>Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let log of logs">
+      <td>{{log.firstName}}</td>
+      <td>{{log.lastName}}</td>
+      <td>{{log.year}}</td>
+    </tr>
+  </tbody>
+</table>
