@@ -1,0 +1,35 @@
+header {
+    text-align: center;
+}
+
+.summaryText {
+    color: darkgray;
+    text-align: center;
+}
+
+#logContainer {
+    margin: 0 auto;
+    max-width: 750px;
+}
+
+#logImage {
+    float:right;
+    height:50%;
+    width:50%;
+}
+
+td, th {
+    padding:15px;
+}
+
+thead {
+    background-color: lightgray;
+}
+
+table {
+    border-collapse: collapse;
+    border-color: darkgray;
+    border-width: 1px;
+    border-style: solid;
+    margin: 50px;
+}

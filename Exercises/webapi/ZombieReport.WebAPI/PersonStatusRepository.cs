@@ -13,8 +13,8 @@
             {
                 dbConnection.Open();
                 return dbConnection.Query<PersonStatus>(
-                    "select PersonId, FirstName, LastName, PersonStatusId"
-                    + " from Person;"
+                    "select p.PersonId, p.FirstName, p.LastName, p.PersonStatusId, ps.StatusDescription"
+                    + " from Person p inner join PersonStatus ps on p.PersonStatusId = ps.PersonStatusId;"
                     , commandType: CommandType.Text);
             }
         }

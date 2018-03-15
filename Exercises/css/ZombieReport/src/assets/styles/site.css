@@ -1,0 +1,36 @@
+#reportHeader {
+    text-align: center;
+}
+
+.summaryText {
+    color: darkgray;
+}
+
+thead {
+    background-color: lightgray;
+    text-align: left;
+}
+
+table {
+    border: 1px solid darkgray;
+    border-collapse: collapse;
+    margin: 20px;
+}
+
+td, th {
+    padding: 15px;
+}
+
+#statusImage {
+    float: right;
+    margin-right: 50px;
+}
+
+#statusContainer {
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+.tableLinks {
+    margin-left: 25px;
+}

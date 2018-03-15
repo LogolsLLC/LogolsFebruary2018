@@ -1,0 +1,29 @@
+<header id="reportHeader">
+  <h1>
+      {{title}}
+  </h1>
+</header>
+<div id="statusContainer">
+  <p class="summaryText">
+    This report will notify you of the status of people that we are aware of.  
+    Please enter anyone that we are missing.
+  </p>
+  <img id="statusImage" src="/assets/img/Zombie.jpg" alt="Zombie Image" />
+  <table id="statusTable">
+    <thead>
+      <th>First Name</th>
+      <th>Last Name</th>
+      <th>Status Id</th>
+      <th>Status</th>
+    </thead>
+    <tr *ngFor="let status of statuses">
+      <td>{{status.firstName}}</td>
+      <td>{{status.lastName}}</td>
+      <td>{{status.personStatusId}}</td>
+      <td>{{status.statusDescription}}</td>
+    </tr>
+  </table>
+  <div class="tableLinks">
+    <a routerLink="/addStatus" routerLinkActive="active">Add</a>
+  </div>
+</div>

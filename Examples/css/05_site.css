@@ -1,0 +1,38 @@
+header {
+  color:black;
+}
+
+.summaryText {
+  color: gray;
+}
+
+#logTable {
+  border-style: solid;
+  border-color: black;
+  border-collapse: collapse;
+}
+
+td, th {
+  padding: 20px;
+}
+
+table td {
+  color: gray;
+}
+
+tr:nth-child(even) {
+  background-color: rgba(134, 85, 85, 0.2);
+}
+
+#logTable > thead > tr > th {
+  background-color: #dfebf7;
+  font-weight: bold;
+  padding: 5px 20px 5px 20px;
+}
+
+#logTable > tfoot td {
+  background-color: #dfebf7;
+  color: black;
+  font-weight: bold;
+  padding: 5px 20px 5px 20px;
+}

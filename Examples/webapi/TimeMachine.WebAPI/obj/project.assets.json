@@ -12855,11 +12855,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\Examples\\webapi\\timemachine.webapi\\TimeMachine.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\JMack_000\\Documents\\GitHub\\LogolsFebruary20182\\LogolsFebruary2018\\Examples\\webapi\\TimeMachine.WebAPI\\TimeMachine.WebAPI.csproj",
       "projectName": "TimeMachine.WebAPI",
-      "projectPath": "C:\\Code\\Examples\\webapi\\timemachine.webapi\\TimeMachine.WebAPI.csproj",
+      "projectPath": "C:\\Users\\JMack_000\\Documents\\GitHub\\LogolsFebruary20182\\LogolsFebruary2018\\Examples\\webapi\\TimeMachine.WebAPI\\TimeMachine.WebAPI.csproj",
       "packagesPath": "C:\\Users\\JMack_000\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\Examples\\webapi\\timemachine.webapi\\obj\\",
+      "outputPath": "C:\\Users\\JMack_000\\Documents\\GitHub\\LogolsFebruary20182\\LogolsFebruary2018\\Examples\\webapi\\TimeMachine.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

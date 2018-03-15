@@ -8,3 +8,13 @@ C:\Code\Examples\webapi\TimeMachine.WebAPI\obj\Debug\netcoreapp2.0\TimeMachine.W
 C:\Code\Examples\webapi\TimeMachine.WebAPI\obj\Debug\netcoreapp2.0\TimeMachine.WebAPI.AssemblyInfo.cs
 C:\Code\Examples\webapi\TimeMachine.WebAPI\obj\Debug\netcoreapp2.0\TimeMachine.WebAPI.dll
 C:\Code\Examples\webapi\TimeMachine.WebAPI\obj\Debug\netcoreapp2.0\TimeMachine.WebAPI.pdb
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\webapi\TimeMachine.WebAPI\bin\Debug\netcoreapp2.0\TimeMachine.WebAPI.deps.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\webapi\TimeMachine.WebAPI\bin\Debug\netcoreapp2.0\TimeMachine.WebAPI.runtimeconfig.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\webapi\TimeMachine.WebAPI\bin\Debug\netcoreapp2.0\TimeMachine.WebAPI.runtimeconfig.dev.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\webapi\TimeMachine.WebAPI\bin\Debug\netcoreapp2.0\TimeMachine.WebAPI.dll
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\webapi\TimeMachine.WebAPI\bin\Debug\netcoreapp2.0\TimeMachine.WebAPI.pdb
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\webapi\TimeMachine.WebAPI\obj\Debug\netcoreapp2.0\TimeMachine.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\webapi\TimeMachine.WebAPI\obj\Debug\netcoreapp2.0\TimeMachine.WebAPI.AssemblyInfoInputs.cache
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\webapi\TimeMachine.WebAPI\obj\Debug\netcoreapp2.0\TimeMachine.WebAPI.AssemblyInfo.cs
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\webapi\TimeMachine.WebAPI\obj\Debug\netcoreapp2.0\TimeMachine.WebAPI.dll
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\webapi\TimeMachine.WebAPI\obj\Debug\netcoreapp2.0\TimeMachine.WebAPI.pdb
