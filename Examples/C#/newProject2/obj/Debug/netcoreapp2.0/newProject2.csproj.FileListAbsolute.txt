@@ -1,0 +1,10 @@
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\C#\newProject2\bin\Debug\netcoreapp2.0\newProject2.deps.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\C#\newProject2\bin\Debug\netcoreapp2.0\newProject2.runtimeconfig.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\C#\newProject2\bin\Debug\netcoreapp2.0\newProject2.runtimeconfig.dev.json
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\C#\newProject2\bin\Debug\netcoreapp2.0\newProject2.dll
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\C#\newProject2\bin\Debug\netcoreapp2.0\newProject2.pdb
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\C#\newProject2\obj\Debug\netcoreapp2.0\newProject2.csproj.CoreCompileInputs.cache
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\C#\newProject2\obj\Debug\netcoreapp2.0\newProject2.AssemblyInfoInputs.cache
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\C#\newProject2\obj\Debug\netcoreapp2.0\newProject2.AssemblyInfo.cs
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\C#\newProject2\obj\Debug\netcoreapp2.0\newProject2.dll
+C:\Users\JMack_000\Documents\GitHub\LogolsFebruary20182\LogolsFebruary2018\Examples\C#\newProject2\obj\Debug\netcoreapp2.0\newProject2.pdb
